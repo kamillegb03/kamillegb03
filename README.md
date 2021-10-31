@@ -7,7 +7,7 @@ Opa!! Quem fala é a Kamille Gomes
 <div>
   <a href="https://github.com/kamillegb03">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kamillegb03&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamillegb03&layout=compact&langs_count=7&theme=algolia"/>
+  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamillegb03&layout=compact&langs_count=7&theme=algolia"/>
 </div>
   
 <div style="display: inline_block"><br>
