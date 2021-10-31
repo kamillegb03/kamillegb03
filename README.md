@@ -4,7 +4,7 @@ Opa!! Quem fala é a Kamille Gomes
 - 🌱 Estudadando Java
 - 😄 Pronomes: ela/dela
 
-<div align="center">
+<div>
   <a href="https://github.com/kamillegb03">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kamillegb03&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamillegb03&layout=compact&langs_count=7&theme=algolia"/>
