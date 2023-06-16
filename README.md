@@ -1,7 +1,7 @@
 Opa!! Quem fala é a Kamille Gomes
 
 - 🔭 No momento estou cursando Sistemas de Informação
-- 🌱 Estudadando Java
+- 🌱 Java, Spring boot, Flutter, PostgreSql
 - 😄 Pronomes: ela/dela
 
 <div align="center">
