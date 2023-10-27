@@ -1,6 +1,6 @@
 Opa!! Quem fala é a Kamille Gomes
 
-- 🔭 No momento estou cursando Sistemas de Informação
+- 🔭 No momento estou no 7/8 período do curso de Sistemas de Informação
 - 🌱 Java, Spring boot, Flutter, PostgreSql
 - 😄 Pronomes: ela/dela
 
